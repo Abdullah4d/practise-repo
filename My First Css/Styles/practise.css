@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+}
+.header{
+    width: 600px;
+    height: 500px;
+    display: inline-flex;
+}
